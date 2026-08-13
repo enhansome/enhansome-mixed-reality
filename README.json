@@ -1,0 +1,359 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ParrelSync (multiplayer) - Tool for synchronizing multiplayer sessions in Unity",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-16T02:32:20Z",
+            "owner": "VeriorPies",
+            "repo": "ParrelSync",
+            "stars": 6061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ezy Slice",
+          "description": "Mesh slicing framework for Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-10T07:30:07Z",
+            "owner": "DavidArayan",
+            "repo": "ezy-slice",
+            "stars": 2262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenAI",
+          "description": "Integration of OpenAI services with Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-27T20:01:07Z",
+            "owner": "srcnalt",
+            "repo": "OpenAI-Unity",
+            "stars": 842
+          }
+        }
+      ],
+      "title": "Packages & Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MR Utility Kit - Utility kit for mixed reality development",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T02:46:21Z",
+            "owner": "microsoft",
+            "repo": "MixedRealityToolkit-Unity",
+            "stars": 6075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MRTK - Mixed Reality Toolkit by Microsoft",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-24T02:46:21Z",
+            "owner": "microsoft",
+            "repo": "MixedRealityToolkit-Unity",
+            "stars": 6075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LOVR - Lua Virtual Reality Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:18:38Z",
+            "owner": "bjornbytes",
+            "repo": "lovr",
+            "stars": 2581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reality Accelerator Toolkit - Collection of tools and samples for building high-quality MR experiences",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T11:30:51Z",
+            "owner": "meta-quest",
+            "repo": "reality-accelerator-toolkit",
+            "stars": 152
+          }
+        }
+      ],
+      "title": "SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AR Foundation Samples",
+          "description": "Sample projects for AR Foundation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-25T23:43:08Z",
+            "owner": "Unity-Technologies",
+            "repo": "arfoundation-samples",
+            "stars": 3427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tilt Brush",
+          "description": "The OG Painting App in VR created by Google in 2016 (not being maintained anymore though, but continued in spirit by Open Brush)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-01-04T16:17:39Z",
+            "owner": "googlevr",
+            "repo": "tilt-brush",
+            "stars": 2262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XR Interaction Toolkit Example",
+          "description": "Example projects for XR Interaction Toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-14T00:02:03Z",
+            "owner": "Unity-Technologies",
+            "repo": "XR-Interaction-Toolkit-Examples",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Brush",
+          "description": "Open-source VR painting application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:18:36Z",
+            "owner": "icosa-foundation",
+            "repo": "open-brush",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The World Beyond",
+          "description": "Sample project for world-building in VR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T15:09:30Z",
+            "owner": "oculus-samples",
+            "repo": "Unity-TheWorldBeyond",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VR Alchemy Lab",
+          "description": "VR interaction sample projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-07T14:09:36Z",
+            "owner": "Unity-Technologies",
+            "repo": "VRAlchemyLab",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "First Hand",
+          "description": "Hand interaction sample projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T15:10:44Z",
+            "owner": "oculus-samples",
+            "repo": "Unity-FirstHand",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Phanto",
+          "description": "VR interaction sample project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T15:09:28Z",
+            "owner": "oculus-samples",
+            "repo": "Unity-Phanto",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixed Reality Example for Meta-OpenXR",
+          "description": "Example project for Meta-OpenXR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-23T19:34:30Z",
+            "owner": "Unity-Technologies",
+            "repo": "mr-example-meta-openxr",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Move Fast",
+          "description": "Mixed reality interaction sample project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-23T19:34:30Z",
+            "owner": "Unity-Technologies",
+            "repo": "mr-example-meta-openxr",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate Glove Ball",
+          "description": "VR glove interaction sample project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-24T06:15:00Z",
+            "owner": "oculus-samples",
+            "repo": "Unity-UltimateGloveBall",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whisperer",
+          "description": "Voice SDK sample projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T15:10:13Z",
+            "owner": "oculus-samples",
+            "repo": "voicesdk-samples-whisperer",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "White Christmas",
+          "description": "Object Detection in Meta Quest Headset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-07T06:46:01Z",
+            "owner": "ThinkingBalloon",
+            "repo": "WhiteChristmas",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "GitHub Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Quest 3 Mixed Reality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome visionOS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-16T13:44:53Z",
+            "owner": "tomkrikorian",
+            "repo": "awesome-visionOS",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Meta Spatial SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-17T15:04:00Z",
+            "owner": "tomkrikorian",
+            "repo": "awesome-meta-spatial-sdk",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Other Awesome XR Lists"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Saurabh Chalke\nFeel free to reach out to me on Twitter/X for any sort of help related to MR :)",
+      "items": [],
+      "title": "Author"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:09.823Z",
+    "original_repository": "saurabhchalke/awesome-mixed-reality",
+    "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
+    "enhanced_repository": "enhansome/enhansome-mixed-reality",
+    "enhanced_repository_description": null,
+    "title": "Awesome Mixed Reality with stars"
+  }
+}
