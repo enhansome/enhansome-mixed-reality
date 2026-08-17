@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T00:52:17Z",
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2585
+            "stars": 2587
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-13T18:01:36Z",
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3428
+            "stars": 3429
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2026-08-14T13:37:24Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1118
+            "stars": 1119
           }
         },
         {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:00:13.849Z",
+    "last_updated": "2026-08-17T04:04:21.725Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
     "enhanced_repository": "enhansome/enhansome-mixed-reality",

@@ -89,7 +89,7 @@
 
 * **MR Utility Kit** - [Utility kit for mixed reality development](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,075 | 🐛 5 | 🌐 C# | 📅 2026-07-24.
 * **MRTK** - [Mixed Reality Toolkit by Microsoft](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,075 | 🐛 5 | 🌐 C# | 📅 2026-07-24.
-* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,585 | 🐛 27 | 🌐 C | 📅 2026-08-16
+* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,587 | 🐛 27 | 🌐 C | 📅 2026-08-16
 * **Reality Accelerator Toolkit** - [Collection of tools and samples for building high-quality MR experiences](https://github.com/meta-quest/reality-accelerator-toolkit) ⭐ 152 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-28.
 * **Meta XR all-in-one SDK** - [Comprehensive SDK for developing Meta XR applications](https://developer.oculus.com/downloads/package/oculus-integration/).
 * **Meta Building Blocks** - [Pre-built components for XR development](https://developer.oculus.com/documentation/unity/unity-prefabs-building-blocks/).
@@ -148,10 +148,10 @@
 
 ## GitHub Projects
 
-* [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) ⭐ 3,428 | 🐛 33 | 🌐 C# | 📅 2026-08-13 - Sample projects for AR Foundation.
+* [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) ⭐ 3,429 | 🐛 33 | 🌐 C# | 📅 2026-08-13 - Sample projects for AR Foundation.
 * [Tilt Brush](https://github.com/googlevr/tilt-brush) ⚠️ Archived - The OG Painting App in VR created by Google in 2016 (not being maintained anymore though, but continued in spirit by Open Brush)
 * [XR Interaction Toolkit Example](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) ⭐ 1,304 | 🐛 89 | 🌐 C# | 📅 2026-02-14 - Example projects for XR Interaction Toolkit.
-* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,118 | 🐛 100 | 🌐 C# | 📅 2026-08-14 - Open-source VR painting application.
+* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,119 | 🐛 100 | 🌐 C# | 📅 2026-08-14 - Open-source VR painting application.
 * [The World Beyond](https://github.com/oculus-samples/Unity-TheWorldBeyond) ⭐ 368 | 🐛 0 | 🌐 C# | 📅 2026-05-28 - Sample project for world-building in VR.
 * [First Hand](https://github.com/oculus-samples/Unity-FirstHand) ⭐ 312 | 🐛 6 | 🌐 C# | 📅 2026-05-28 - Hand interaction sample projects.
 * [VR Alchemy Lab](https://github.com/Unity-Technologies/VRAlchemyLab) ⭐ 312 | 🐛 1 | 🌐 C# | 📅 2026-04-07 - VR interaction sample projects.
@@ -269,4 +269,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/saurabhchalke) for any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
