@@ -14,7 +14,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6063
+            "stars": 6064
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T16:10:12Z",
+            "last_commit": "2026-08-18T21:11:02Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1119
+            "stars": 1120
           }
         },
         {
@@ -349,7 +349,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:59:05.371Z",
+    "last_updated": "2026-08-19T03:59:52.106Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
     "enhanced_repository": "enhansome/enhansome-mixed-reality",
