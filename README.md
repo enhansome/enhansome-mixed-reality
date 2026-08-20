@@ -76,7 +76,7 @@
 
 ## Packages & Services
 
-* **ParrelSync (multiplayer)** - [Tool for synchronizing multiplayer sessions in Unity](https://github.com/VeriorPies/ParrelSync) ⭐ 6,066 | 🐛 44 | 🌐 C# | 📅 2026-06-16.
+* **ParrelSync (multiplayer)** - [Tool for synchronizing multiplayer sessions in Unity](https://github.com/VeriorPies/ParrelSync) ⭐ 6,068 | 🐛 44 | 🌐 C# | 📅 2026-06-16.
 * [Ezy Slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,263 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - Mesh slicing framework for Unity.
 * [OpenAI](https://github.com/srcnalt/OpenAI-Unity) ⭐ 842 | 🐛 30 | 🌐 C# | 📅 2024-11-27 - Integration of OpenAI services with Unity.
 * **Unity third person character controller** - [Pre-built character controller for Unity](https://assetstore.unity.com/packages/essentials/characters/standard-assets-32351).
@@ -89,7 +89,7 @@
 
 * **MR Utility Kit** - [Utility kit for mixed reality development](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,077 | 🐛 5 | 🌐 C# | 📅 2026-07-24.
 * **MRTK** - [Mixed Reality Toolkit by Microsoft](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,077 | 🐛 5 | 🌐 C# | 📅 2026-07-24.
-* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,587 | 🐛 27 | 🌐 C | 📅 2026-08-17
+* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,587 | 🐛 27 | 🌐 C | 📅 2026-08-20
 * **Reality Accelerator Toolkit** - [Collection of tools and samples for building high-quality MR experiences](https://github.com/meta-quest/reality-accelerator-toolkit) ⭐ 152 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-28.
 * **Meta XR all-in-one SDK** - [Comprehensive SDK for developing Meta XR applications](https://developer.oculus.com/downloads/package/oculus-integration/).
 * **Meta Building Blocks** - [Pre-built components for XR development](https://developer.oculus.com/documentation/unity/unity-prefabs-building-blocks/).
@@ -269,4 +269,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/saurabhchalke) for any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
