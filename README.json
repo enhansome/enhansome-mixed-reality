@@ -15,7 +15,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6068
+            "stars": 6070
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-08-10T07:30:07Z",
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2263
+            "stars": 2264
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-19T16:08:43Z",
+            "last_commit": "2026-08-20T14:51:37Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1120
+            "stars": 1119
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:59:43.134Z",
+    "last_updated": "2026-08-21T04:03:01.874Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_id": 829013832,
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
