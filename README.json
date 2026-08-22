@@ -15,7 +15,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6070
+            "stars": 6072
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-20T00:38:42Z",
+            "last_commit": "2026-08-21T20:20:08Z",
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2587
@@ -132,7 +132,7 @@
             "last_commit": "2026-08-13T18:01:36Z",
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3430
+            "stars": 3432
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-20T14:51:37Z",
+            "last_commit": "2026-08-21T12:00:58Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1119
@@ -207,7 +207,7 @@
             "last_commit": "2026-05-28T15:10:44Z",
             "owner": "oculus-samples",
             "repo": "Unity-FirstHand",
-            "stars": 312
+            "stars": 313
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:03:01.874Z",
+    "last_updated": "2026-08-22T03:57:24.860Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_id": 829013832,
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
