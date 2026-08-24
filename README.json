@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Awesome Unity GitHub",
+          "description": "A curated list of Unity resources, tools, and tutorials.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22240046,
+            "language": null,
+            "last_commit": "2025-01-22T15:47:15Z",
+            "owner": "RyanNielson",
+            "repo": "awesome-unity",
+            "stars": 7103
+          }
+        }
+      ],
+      "title": "Websites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XRGizmos - Gizmos for XR development in Unity",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664464270,
+            "language": "C#",
+            "last_commit": "2026-03-11T11:38:17Z",
+            "owner": "darktable",
+            "repo": "XRGizmos",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "ParrelSync (multiplayer) - Tool for synchronizing multiplayer sessions in Unity",
           "description": ".",
           "children": [],
@@ -15,7 +57,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6077
+            "stars": 6078
           }
         },
         {
@@ -66,7 +108,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6077
+            "stars": 6076
           }
         },
         {
@@ -81,7 +123,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6077
+            "stars": 6076
           }
         },
         {
@@ -174,7 +216,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-23T15:53:05Z",
+            "last_commit": "2026-08-24T13:26:55Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -192,7 +234,7 @@
             "last_commit": "2026-05-28T15:09:30Z",
             "owner": "oculus-samples",
             "repo": "Unity-TheWorldBeyond",
-            "stars": 368
+            "stars": 369
           }
         },
         {
@@ -356,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:06:46.105Z",
+    "last_updated": "2026-08-24T14:42:54.076Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_id": 829013832,
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
