@@ -216,7 +216,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-24T13:26:55Z",
+            "last_commit": "2026-08-24T18:49:21Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:54.076Z",
+    "last_updated": "2026-08-25T04:01:19.869Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_id": 829013832,
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
