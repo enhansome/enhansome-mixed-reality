@@ -57,7 +57,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6078
+            "stars": 6080
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076
+            "stars": 6075
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076
+            "stars": 6075
           }
         },
         {
@@ -216,7 +216,7 @@
             "archived": false,
             "id": 333158293,
             "language": "C#",
-            "last_commit": "2026-08-24T18:49:21Z",
+            "last_commit": "2026-08-25T22:18:56Z",
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1120
@@ -375,7 +375,7 @@
             "last_commit": "2026-06-16T13:44:53Z",
             "owner": "tomkrikorian",
             "repo": "awesome-visionOS",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:51.837Z",
+    "last_updated": "2026-08-26T04:04:19.811Z",
     "original_repository": "saurabhchalke/awesome-mixed-reality",
     "original_repository_id": 829013832,
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
