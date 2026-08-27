@@ -15,7 +15,7 @@
             "last_commit": "2025-01-22T15:47:15Z",
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7103
+            "stars": 7104
           }
         }
       ],
@@ -57,7 +57,7 @@
             "last_commit": "2026-06-16T02:32:20Z",
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6080
+            "stars": 6082
           }
         },
         {
@@ -72,7 +72,7 @@
             "last_commit": "2023-08-10T07:30:07Z",
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2265
+            "stars": 2266
           }
         },
         {
@@ -108,7 +108,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6075
+            "stars": 6074
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-24T02:46:21Z",
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6075
+            "stars": 6074
           }
         },
         {
@@ -135,7 +135,7 @@
             "archived": false,
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-21T20:20:08Z",
+            "last_commit": "2026-08-27T06:12:32Z",
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2587
@@ -174,7 +174,7 @@
             "last_commit": "2026-08-13T18:01:36Z",
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3432
+            "stars": 3433
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2026-04-07T14:09:36Z",
             "owner": "Unity-Technologies",
             "repo": "VRAlchemyLab",
-            "stars": 312
+            "stars": 311
           }
         },
         {
@@ -398,9 +398,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:04:19.811Z",
-    "original_repository": "saurabhchalke/awesome-mixed-reality",
-    "original_repository_id": 829013832,
+    "last_updated": "2026-08-27T11:50:05.942Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 829013832,
+      "language": null,
+      "last_commit": "2025-03-07T05:43:57Z",
+      "owner": "saurabhchalke",
+      "repo": "awesome-mixed-reality",
+      "stars": 83
+    },
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
     "enhanced_repository": "enhansome/enhansome-mixed-reality",
     "enhanced_repository_description": null,
