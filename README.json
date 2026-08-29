@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome Unity assets, resources, and more.",
+            "homepage": null,
             "id": 22240046,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-01-22T15:47:15Z",
+            "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7104
+            "stars": 7104,
+            "topics": [
+              "awesome-list",
+              "game-development",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -32,12 +41,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility for debug drawing on devices.",
+            "homepage": null,
             "id": 664464270,
             "language": "C#",
+            "license": "Unlicense",
             "last_commit": "2026-03-11T11:38:17Z",
+            "open_issues": 0,
             "owner": "darktable",
             "repo": "XRGizmos",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -54,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Unity3D) Test multiplayer without building",
+            "homepage": null,
             "id": 264454828,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-06-16T02:32:20Z",
+            "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6081
+            "stars": 6081,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -70,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source mesh slicer framework for Unity3D Game Engine. Written in C#.",
+            "homepage": null,
             "id": 46333812,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-08-10T07:30:07Z",
+            "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2266
+            "stars": 2266,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -86,12 +110,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.",
+            "homepage": "https://neocortex.link",
             "id": 586360591,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-27T20:01:07Z",
+            "open_issues": 30,
             "owner": "srcnalt",
             "repo": "OpenAI-Unity",
-            "stars": 842
+            "stars": 842,
+            "topics": [
+              "chatgpt",
+              "dalle",
+              "openai",
+              "openai-api",
+              "unity",
+              "unity3d",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -108,12 +145,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is for the legacy Mixed Reality Toolkit (MRTK) v2.  For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity",
+            "homepage": "https://aka.ms/mrtkdocs",
             "id": 50605426,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-24T02:46:21Z",
+            "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6074
+            "stars": 6074,
+            "topics": [
+              "hololens",
+              "holotoolkit",
+              "holotoolkit-unity",
+              "mixed-reality",
+              "mixedrealitytoolkit",
+              "mixedrealitytoolkit-unity",
+              "mrtk",
+              "openvr",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -124,12 +176,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is for the legacy Mixed Reality Toolkit (MRTK) v2.  For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity",
+            "homepage": "https://aka.ms/mrtkdocs",
             "id": 50605426,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-24T02:46:21Z",
+            "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6074
+            "stars": 6074,
+            "topics": [
+              "hololens",
+              "holotoolkit",
+              "holotoolkit-unity",
+              "mixed-reality",
+              "mixedrealitytoolkit",
+              "mixedrealitytoolkit-unity",
+              "mrtk",
+              "openvr",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -140,12 +207,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lua Virtual Reality Framework",
+            "homepage": "https://lovr.org",
             "id": 62519414,
             "language": "C",
-            "last_commit": "2026-08-27T06:12:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:18:49Z",
+            "open_issues": 24,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2587
+            "stars": 2586,
+            "topics": [
+              "game-engine",
+              "gamedev",
+              "lovr",
+              "lua",
+              "oculus",
+              "oculus-quest",
+              "openvr",
+              "openxr",
+              "virtual-reality",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -156,12 +239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RATK (Reality Accelerator Toolkit) simplifies the integration of Mixed Reality experiences in WebXR, making it easier for developers to bring their MR ideas to life.",
+            "homepage": "https://meta-quest.github.io/reality-accelerator-toolkit/",
             "id": 610968042,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-28T11:30:51Z",
+            "open_issues": 17,
             "owner": "meta-quest",
             "repo": "reality-accelerator-toolkit",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -178,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example content for Unity projects based on AR Foundation",
+            "homepage": null,
             "id": 137433882,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:09:36Z",
+            "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3432
+            "stars": 3432,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -194,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 255415824,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-04T16:17:39Z",
+            "open_issues": 0,
             "owner": "googlevr",
             "repo": "tilt-brush",
-            "stars": 2262
+            "stars": 2262,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -210,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains various examples to use with the XR Interaction Toolkit",
+            "homepage": null,
             "id": 227207157,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-14T00:02:03Z",
+            "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1305
+            "stars": 1305,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -226,12 +329,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Brush is the open source, community led evolution of Tilt Brush! Forked from https://github.com/googlevr/tilt-brush",
+            "homepage": "https://openbrush.app",
             "id": 333158293,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:10:36Z",
+            "open_issues": 100,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1121
+            "stars": 1121,
+            "topics": [
+              "ar",
+              "art",
+              "meta-quest",
+              "mr",
+              "openbrush",
+              "openxr",
+              "painting",
+              "quest",
+              "tiltbrush",
+              "unity",
+              "unity3d",
+              "virtual-reality",
+              "vr",
+              "xr"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -242,12 +365,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Presence Platform showcase demonstrating usage of Scene, Passthrough, Interaction, Voice, and Spatializer. The Oculus SDK and other supporting material is subject to the Oculus proprietary license. Multiple licenses may apply.",
+            "homepage": null,
             "id": 467010385,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-28T15:09:30Z",
+            "open_issues": 0,
             "owner": "oculus-samples",
             "repo": "Unity-TheWorldBeyond",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "showcase"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -258,12 +388,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oculus Interaction SDK showcase demonstrating the use of Interaction SDK in Unity with hand tracking. This project contains the interactions used in the \"First Hand\" demo available on App Lab. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.",
+            "homepage": null,
             "id": 510901363,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-28T15:10:44Z",
+            "open_issues": 6,
             "owner": "oculus-samples",
             "repo": "Unity-FirstHand",
-            "stars": 313
+            "stars": 313,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -274,12 +409,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VR Demo project using HDRP and unity 2019.3",
+            "homepage": null,
             "id": 222720242,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-04-07T14:09:36Z",
+            "open_issues": 1,
             "owner": "Unity-Technologies",
             "repo": "VRAlchemyLab",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "hdrp",
+              "oculus-rift",
+              "unity3d",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -290,12 +435,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Phanto is a showcase of the Meta Quest Mixed Reality APIs. This project demonstrate how to use Meshes.",
+            "homepage": null,
             "id": 694782263,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-28T15:09:28Z",
+            "open_issues": 1,
             "owner": "oculus-samples",
             "repo": "Unity-Phanto",
-            "stars": 272
+            "stars": 272,
+            "topics": [
+              "showcase"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -306,12 +458,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mixed Reality example project featuring integration of OpenXR, XR Interaction Toolkit, XR Hands, AR Foundation and the Meta-OpenXR package. This project will allow creators to quickly get up and running with their own mixed reality games and apps using the Meta Quest 2, Quest Pro and Quest 3 devices.",
+            "homepage": null,
             "id": 694410543,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-23T19:34:30Z",
+            "open_issues": 0,
             "owner": "Unity-Technologies",
             "repo": "mr-example-meta-openxr",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -322,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mixed Reality example project featuring integration of OpenXR, XR Interaction Toolkit, XR Hands, AR Foundation and the Meta-OpenXR package. This project will allow creators to quickly get up and running with their own mixed reality games and apps using the Meta Quest 2, Quest Pro and Quest 3 devices.",
+            "homepage": null,
             "id": 694410543,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-23T19:34:30Z",
+            "open_issues": 0,
             "owner": "Unity-Technologies",
             "repo": "mr-example-meta-openxr",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -338,12 +500,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta Quest ESport Showcase demonstrating multiplayer functionalities in Unity. Including Oculus Social APIs, Avatars, Oculus Platform authentication, Oculus Multiplayer APIs, Photon Realtime, Photon Voice with Oculus Spatializer, and In-app purchases.",
+            "homepage": null,
             "id": 578757200,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-01-24T06:15:00Z",
+            "open_issues": 1,
             "owner": "oculus-samples",
             "repo": "Unity-UltimateGloveBall",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "showcase"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -354,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oculus Voice SDK showcase demonstrating the use of Voice SDK in Unity. This project contains the source code for the \"Whisperer\" demo available on App Lab. The Oculus SDK and other supporting material is subject to the Oculus proprietary license.",
+            "homepage": null,
             "id": 528081303,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-28T15:10:13Z",
+            "open_issues": 0,
             "owner": "oculus-samples",
             "repo": "voicesdk-samples-whisperer",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -370,12 +544,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On-Device Object Detection on Meta Quest",
+            "homepage": null,
             "id": 901845693,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-07T06:46:01Z",
+            "open_issues": 0,
             "owner": "ThinkingBalloon",
             "repo": "WhiteChristmas",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "artificial-intelligence",
+              "machine-learning",
+              "meta-quest",
+              "mixed-reality",
+              "object-detection",
+              "virtual-reality"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -392,12 +578,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of resources for visionOS developers!",
+            "homepage": null,
             "id": 762865765,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-16T13:44:53Z",
+            "open_issues": 1,
             "owner": "tomkrikorian",
             "repo": "awesome-visionOS",
-            "stars": 373
+            "stars": 373,
+            "topics": [
+              "apple",
+              "arkit",
+              "awesome",
+              "realitykit",
+              "spatialcomputing",
+              "swift",
+              "swiftui",
+              "uikit",
+              "visionos",
+              "visionpro"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         },
@@ -408,12 +610,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of resources for Meta Horizon OS developers using the Meta Spatial SDK!",
+            "homepage": null,
             "id": 897570291,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-17T15:04:00Z",
+            "open_issues": 0,
             "owner": "tomkrikorian",
             "repo": "awesome-meta-spatial-sdk",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "meta"
+            ]
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
         }
@@ -422,15 +631,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:24:42.589Z",
+    "last_updated": "2026-08-29T05:02:14.673Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
+      "homepage": null,
       "id": 829013832,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-03-07T05:43:57Z",
+      "open_issues": 0,
       "owner": "saurabhchalke",
       "repo": "awesome-mixed-reality",
-      "stars": 83
+      "stars": 83,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "csharp",
+        "game-development",
+        "headset",
+        "mixed-reality",
+        "mr",
+        "unity",
+        "unreal-engine",
+        "virtual-reality",
+        "vr",
+        "xr"
+      ]
     },
     "original_repository_sha": "ae4593d0fb72dcf051a018c788df48b2b8c6676b",
     "enhanced_repository": "enhansome/enhansome-mixed-reality",

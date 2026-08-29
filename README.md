@@ -89,7 +89,7 @@
 
 * **MR Utility Kit** - [Utility kit for mixed reality development](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,074 | 🐛 6 | 🌐 C# | 📅 2026-07-24.
 * **MRTK** - [Mixed Reality Toolkit by Microsoft](https://github.com/microsoft/MixedRealityToolkit-Unity) ⭐ 6,074 | 🐛 6 | 🌐 C# | 📅 2026-07-24.
-* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,587 | 🐛 27 | 🌐 C | 📅 2026-08-27
+* **LOVR** - [Lua Virtual Reality Framework](https://github.com/bjornbytes/lovr) ⭐ 2,586 | 🐛 24 | 🌐 C | 📅 2026-08-29
 * **Reality Accelerator Toolkit** - [Collection of tools and samples for building high-quality MR experiences](https://github.com/meta-quest/reality-accelerator-toolkit) ⭐ 152 | 🐛 17 | 🌐 TypeScript | 📅 2026-02-28.
 * **Meta XR all-in-one SDK** - [Comprehensive SDK for developing Meta XR applications](https://developer.oculus.com/downloads/package/oculus-integration/).
 * **Meta Building Blocks** - [Pre-built components for XR development](https://developer.oculus.com/documentation/unity/unity-prefabs-building-blocks/).
@@ -269,4 +269,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/saurabhchalke) for any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
