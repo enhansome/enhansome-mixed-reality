@@ -151,7 +151,7 @@
 * [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) ⭐ 3,432 | 🐛 33 | 🌐 C# | 📅 2026-08-28 - Sample projects for AR Foundation.
 * [Tilt Brush](https://github.com/googlevr/tilt-brush) ⚠️ Archived - The OG Painting App in VR created by Google in 2016 (not being maintained anymore though, but continued in spirit by Open Brush)
 * [XR Interaction Toolkit Example](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) ⭐ 1,305 | 🐛 89 | 🌐 C# | 📅 2026-02-14 - Example projects for XR Interaction Toolkit.
-* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,121 | 🐛 100 | 🌐 C# | 📅 2026-08-28 - Open-source VR painting application.
+* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,121 | 🐛 100 | 🌐 C# | 📅 2026-08-29 - Open-source VR painting application.
 * [The World Beyond](https://github.com/oculus-samples/Unity-TheWorldBeyond) ⭐ 369 | 🐛 0 | 🌐 C# | 📅 2026-05-28 - Sample project for world-building in VR.
 * [First Hand](https://github.com/oculus-samples/Unity-FirstHand) ⭐ 313 | 🐛 6 | 🌐 C# | 📅 2026-05-28 - Hand interaction sample projects.
 * [VR Alchemy Lab](https://github.com/Unity-Technologies/VRAlchemyLab) ⭐ 311 | 🐛 1 | 🌐 C# | 📅 2026-04-07 - VR interaction sample projects.
