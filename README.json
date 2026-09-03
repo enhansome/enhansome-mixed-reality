@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7099,
+            "stars": 7100,
             "topics": [
               "awesome-list",
               "game-development",
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-01T09:23:15Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-03T06:33:25Z",
+            "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2586,
+            "stars": 2587,
             "topics": [
               "game-engine",
               "gamedev",
@@ -296,7 +296,7 @@
             "open_issues": 0,
             "owner": "googlevr",
             "repo": "tilt-brush",
-            "stars": 2262,
+            "stars": 2261,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T00:08:59Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-02T17:39:05Z",
+            "open_issues": 101,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "ar",
               "art",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:56:08.542Z",
+    "last_updated": "2026-09-03T08:04:56.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
