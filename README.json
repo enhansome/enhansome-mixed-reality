@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7098,
+            "stars": 7097,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6088,
+            "stars": 6090,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2268,
+            "stars": 2269,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-06T21:59:59Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-08T21:27:18Z",
+            "open_issues": 26,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2590,
+            "stars": 2592,
             "topics": [
               "game-engine",
               "gamedev",
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T07:48:23Z",
-            "open_issues": 101,
+            "last_commit": "2026-09-09T08:06:56Z",
+            "open_issues": 103,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1123,
+            "stars": 1124,
             "topics": [
               "ar",
               "art",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:06:59.463Z",
+    "last_updated": "2026-09-09T08:10:53.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
