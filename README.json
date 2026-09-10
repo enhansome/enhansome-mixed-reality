@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7097,
+            "stars": 7096,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6090,
+            "stars": 6092,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T08:06:56Z",
+            "last_commit": "2026-09-09T22:53:26Z",
             "open_issues": 103,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1124,
+            "stars": 1125,
             "topics": [
               "ar",
               "art",
@@ -418,7 +418,7 @@
             "open_issues": 1,
             "owner": "Unity-Technologies",
             "repo": "VRAlchemyLab",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "hdrp",
               "oculus-rift",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:10:53.072Z",
+    "last_updated": "2026-09-10T08:09:38.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
