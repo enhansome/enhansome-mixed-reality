@@ -76,7 +76,7 @@
 
 ## Packages & Services
 
-* **ParrelSync (multiplayer)** - [Tool for synchronizing multiplayer sessions in Unity](https://github.com/VeriorPies/ParrelSync) ⭐ 6,091 | 🐛 44 | 🌐 C# | 📅 2026-06-16.
+* **ParrelSync (multiplayer)** - [Tool for synchronizing multiplayer sessions in Unity](https://github.com/VeriorPies/ParrelSync) ⭐ 6,092 | 🐛 44 | 🌐 C# | 📅 2026-06-16.
 * [Ezy Slice](https://github.com/DavidArayan/ezy-slice) ⭐ 2,270 | 🐛 10 | 🌐 C# | 📅 2023-08-10 - Mesh slicing framework for Unity.
 * [OpenAI](https://github.com/srcnalt/OpenAI-Unity) ⭐ 843 | 🐛 30 | 🌐 C# | 📅 2024-11-27 - Integration of OpenAI services with Unity.
 * **Unity third person character controller** - [Pre-built character controller for Unity](https://assetstore.unity.com/packages/essentials/characters/standard-assets-32351).
@@ -151,11 +151,11 @@
 * [AR Foundation Samples](https://github.com/Unity-Technologies/arfoundation-samples) ⭐ 3,435 | 🐛 33 | 🌐 C# | 📅 2026-09-03 - Sample projects for AR Foundation.
 * [Tilt Brush](https://github.com/googlevr/tilt-brush) ⚠️ Archived - The OG Painting App in VR created by Google in 2016 (not being maintained anymore though, but continued in spirit by Open Brush)
 * [XR Interaction Toolkit Example](https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples) ⭐ 1,307 | 🐛 89 | 🌐 C# | 📅 2026-02-14 - Example projects for XR Interaction Toolkit.
-* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,127 | 🐛 94 | 🌐 C# | 📅 2026-09-14 - Open-source VR painting application.
+* [Open Brush](https://github.com/icosa-foundation/open-brush) ⭐ 1,127 | 🐛 94 | 🌐 C# | 📅 2026-09-15 - Open-source VR painting application.
 * [The World Beyond](https://github.com/oculus-samples/Unity-TheWorldBeyond) ⭐ 369 | 🐛 0 | 🌐 C# | 📅 2026-05-28 - Sample project for world-building in VR.
 * [First Hand](https://github.com/oculus-samples/Unity-FirstHand) ⭐ 314 | 🐛 6 | 🌐 C# | 📅 2026-05-28 - Hand interaction sample projects.
 * [VR Alchemy Lab](https://github.com/Unity-Technologies/VRAlchemyLab) ⭐ 312 | 🐛 1 | 🌐 C# | 📅 2026-04-07 - VR interaction sample projects.
-* [Phanto](https://github.com/oculus-samples/Unity-Phanto) ⭐ 273 | 🐛 1 | 🌐 C# | 📅 2026-05-28 - VR interaction sample project.
+* [Phanto](https://github.com/oculus-samples/Unity-Phanto) ⭐ 274 | 🐛 1 | 🌐 C# | 📅 2026-05-28 - VR interaction sample project.
 * [Mixed Reality Example for Meta-OpenXR](https://github.com/Unity-Technologies/mr-example-meta-openxr) ⭐ 142 | 🐛 0 | 🌐 C# | 📅 2025-10-23 - Example project for Meta-OpenXR.
 * [Move Fast](https://github.com/Unity-Technologies/mr-example-meta-openxr) ⭐ 142 | 🐛 0 | 🌐 C# | 📅 2025-10-23 - Mixed reality interaction sample project.
 * [Ultimate Glove Ball](https://github.com/oculus-samples/Unity-UltimateGloveBall) ⭐ 128 | 🐛 1 | 🌐 C# | 📅 2026-01-24 - VR glove interaction sample project.
@@ -269,4 +269,4 @@ Feel free to reach out to me on [Twitter/X](https://x.com/saurabhchalke) for any
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
