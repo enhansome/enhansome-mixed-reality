@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7096,
+            "stars": 7097,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6097,
+            "stars": 6100,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -216,7 +216,7 @@
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2598,
+            "stars": 2599,
             "topics": [
               "game-engine",
               "gamedev",
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3434,
+            "stars": 3435,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T15:44:48Z",
+            "last_commit": "2026-09-20T08:27:08Z",
             "open_issues": 96,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1129,
+            "stars": 1130,
             "topics": [
               "ar",
               "art",
@@ -444,7 +444,7 @@
             "open_issues": 1,
             "owner": "oculus-samples",
             "repo": "Unity-Phanto",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "showcase"
             ]
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:04:33.975Z",
+    "last_updated": "2026-09-20T08:37:08.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
