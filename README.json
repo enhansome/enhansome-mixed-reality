@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7097,
+            "stars": 7098,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6100,
+            "stars": 6101,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,8 +212,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-18T06:01:01Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-20T20:04:38Z",
+            "open_issues": 26,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2599,
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T08:27:08Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-21T00:34:45Z",
+            "open_issues": 95,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1130,
@@ -587,7 +587,7 @@
             "open_issues": 2,
             "owner": "tomkrikorian",
             "repo": "awesome-visionOS",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "apple",
               "arkit",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:37:08.054Z",
+    "last_updated": "2026-09-21T08:59:02.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
