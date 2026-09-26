@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T08:44:58Z",
+            "last_commit": "2026-09-26T07:12:37Z",
             "open_issues": 97,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:51:11.449Z",
+    "last_updated": "2026-09-26T08:37:35.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
