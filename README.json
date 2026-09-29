@@ -296,7 +296,7 @@
             "open_issues": 0,
             "owner": "googlevr",
             "repo": "tilt-brush",
-            "stars": 2262,
+            "stars": 2263,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -317,7 +317,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1310,
+            "stars": 1311,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:38:18Z",
+            "last_commit": "2026-09-29T08:30:17Z",
             "open_issues": 98,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T09:49:47.455Z",
+    "last_updated": "2026-09-29T09:51:58.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
