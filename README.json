@@ -37,7 +37,7 @@
         {
           "node_type": "item",
           "title": "XRGizmos - Gizmos for XR development in Unity",
-          "description": ".",
+          "description": "darktable/XRGizmos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "ParrelSync (multiplayer) - Tool for synchronizing multiplayer sessions in Unity",
-          "description": ".",
+          "description": "VeriorPies/ParrelSync",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6109,
+            "stars": 6108,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "MR Utility Kit - Utility kit for mixed reality development",
-          "description": ".",
+          "description": "microsoft/MixedRealityToolkit-Unity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "MRTK - Mixed Reality Toolkit by Microsoft",
-          "description": ".",
+          "description": "microsoft/MixedRealityToolkit-Unity",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -203,7 +203,7 @@
         {
           "node_type": "item",
           "title": "LOVR - Lua Virtual Reality Framework",
-          "description": null,
+          "description": "bjornbytes/lovr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "Reality Accelerator Toolkit - Collection of tools and samples for building high-quality MR experiences",
-          "description": ".",
+          "description": "meta-quest/reality-accelerator-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3435,
+            "stars": 3434,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:42:06Z",
+            "last_commit": "2026-10-03T01:13:22Z",
             "open_issues": 98,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -574,7 +574,7 @@
         {
           "node_type": "item",
           "title": "Awesome visionOS",
-          "description": null,
+          "description": "tomkrikorian/awesome-visionOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,7 +587,7 @@
             "open_issues": 2,
             "owner": "tomkrikorian",
             "repo": "awesome-visionOS",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "apple",
               "arkit",
@@ -606,7 +606,7 @@
         {
           "node_type": "item",
           "title": "Awesome Meta Spatial SDK",
-          "description": null,
+          "description": "tomkrikorian/awesome-meta-spatial-sdk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:48:28.860Z",
+    "last_updated": "2026-10-03T04:59:31.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
