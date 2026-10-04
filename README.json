@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2275,
+            "stars": 2276,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -216,7 +216,7 @@
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2601,
+            "stars": 2603,
             "topics": [
               "game-engine",
               "gamedev",
@@ -296,7 +296,7 @@
             "open_issues": 0,
             "owner": "googlevr",
             "repo": "tilt-brush",
-            "stars": 2263,
+            "stars": 2264,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T01:13:22Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-03T17:57:35Z",
+            "open_issues": 97,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1134,
+            "stars": 1135,
             "topics": [
               "ar",
               "art",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:11:25.714Z",
+    "last_updated": "2026-10-04T09:50:24.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
