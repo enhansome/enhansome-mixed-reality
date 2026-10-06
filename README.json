@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6110,
+            "stars": 6111,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,8 +212,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-01T20:49:26Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-06T03:18:26Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2603,
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3434,
+            "stars": 3435,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -317,7 +317,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1312,
+            "stars": 1313,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T12:12:13Z",
+            "last_commit": "2026-10-05T16:32:57Z",
             "open_issues": 97,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:29:26.702Z",
+    "last_updated": "2026-10-06T10:29:50.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
