@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7098,
+            "stars": 7094,
             "topics": [
               "awesome-list",
               "game-development",
@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -216,7 +216,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2603,
+            "stars": 2602,
             "topics": [
               "game-engine",
               "gamedev",
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3435,
+            "stars": 3434,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T16:32:57Z",
+            "last_commit": "2026-10-06T18:59:23Z",
             "open_issues": 97,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:59:22.603Z",
+    "last_updated": "2026-10-07T10:18:03.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
