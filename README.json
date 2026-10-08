@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7094,
+            "stars": 7095,
             "topics": [
               "awesome-list",
               "game-development",
@@ -212,8 +212,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-06T03:18:26Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-07T18:17:48Z",
+            "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2602,
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T18:59:23Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-07T18:06:14Z",
+            "open_issues": 98,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1135,
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "oculus-samples",
             "repo": "Unity-TheWorldBeyond",
-            "stars": 369,
+            "stars": 370,
             "topics": [
               "showcase"
             ]
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:18:03.176Z",
+    "last_updated": "2026-10-08T10:37:34.355Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
