@@ -77,7 +77,7 @@
             "open_issues": 44,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6113,
+            "stars": 6114,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2276,
+            "stars": 2275,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,7 +212,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:06:52Z",
+            "last_commit": "2026-10-11T03:39:13Z",
             "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T04:04:18Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-11T00:20:07Z",
+            "open_issues": 98,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1136,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T09:52:44.008Z",
+    "last_updated": "2026-10-11T10:02:31.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
@@ -643,7 +643,7 @@
       "open_issues": 0,
       "owner": "saurabhchalke",
       "repo": "awesome-mixed-reality",
-      "stars": 84,
+      "stars": 85,
       "topics": [
         "awesome",
         "awesome-list",
