@@ -119,7 +119,7 @@
             "open_issues": 30,
             "owner": "srcnalt",
             "repo": "OpenAI-Unity",
-            "stars": 843,
+            "stars": 842,
             "topics": [
               "chatgpt",
               "dalle",
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-16T15:18:50Z",
+            "last_commit": "2026-10-18T05:23:15Z",
             "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2608,
+            "stars": 2610,
             "topics": [
               "game-engine",
               "gamedev",
@@ -317,7 +317,7 @@
             "open_issues": 89,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1315,
+            "stars": 1316,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:30:26Z",
-            "open_issues": 98,
+            "last_commit": "2026-10-17T17:34:56Z",
+            "open_issues": 95,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1139,
@@ -397,7 +397,7 @@
             "open_issues": 6,
             "owner": "oculus-samples",
             "repo": "Unity-FirstHand",
-            "stars": 315,
+            "stars": 316,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:49:56.280Z",
+    "last_updated": "2026-10-18T08:03:52.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
