@@ -77,7 +77,7 @@
             "open_issues": 45,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6121,
+            "stars": 6123,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2278,
+            "stars": 2279,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -216,7 +216,7 @@
             "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2611,
+            "stars": 2612,
             "topics": [
               "game-engine",
               "gamedev",
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3435,
+            "stars": 3437,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T21:19:25Z",
+            "last_commit": "2026-10-19T16:03:07Z",
             "open_issues": 97,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "oculus-samples",
             "repo": "Unity-TheWorldBeyond",
-            "stars": 370,
+            "stars": 371,
             "topics": [
               "showcase"
             ]
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:55:27.391Z",
+    "last_updated": "2026-10-20T08:34:58.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
