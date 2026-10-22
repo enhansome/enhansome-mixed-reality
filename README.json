@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076,
+            "stars": 6075,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6076,
+            "stars": 6075,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-20T18:49:32Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-22T02:34:21Z",
+            "open_issues": 30,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2612,
+            "stars": 2613,
             "topics": [
               "game-engine",
               "gamedev",
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T16:03:07Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-21T23:24:19Z",
+            "open_issues": 101,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1139,
@@ -418,7 +418,7 @@
             "open_issues": 1,
             "owner": "Unity-Technologies",
             "repo": "VRAlchemyLab",
-            "stars": 312,
+            "stars": 313,
             "topics": [
               "hdrp",
               "oculus-rift",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:36:28.542Z",
+    "last_updated": "2026-10-22T08:38:43.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
