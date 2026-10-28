@@ -212,7 +212,7 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-26T20:19:48Z",
+            "last_commit": "2026-10-27T18:49:58Z",
             "open_issues": 28,
             "owner": "bjornbytes",
             "repo": "lovr",
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3437,
+            "stars": 3438,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T20:29:19Z",
-            "open_issues": 106,
+            "last_commit": "2026-10-28T05:24:34Z",
+            "open_issues": 100,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1141,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T09:02:16.839Z",
+    "last_updated": "2026-10-28T09:41:48.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
