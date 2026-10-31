@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7092,
+            "stars": 7091,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 45,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6128,
+            "stars": 6129,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2280,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6077,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -212,8 +212,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-29T00:54:28Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-31T03:31:52Z",
+            "open_issues": 29,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2617,
@@ -334,11 +334,11 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T05:25:17Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-30T19:02:43Z",
+            "open_issues": 101,
             "owner": "icosa-foundation",
             "repo": "open-brush",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "ar",
               "art",
@@ -444,7 +444,7 @@
             "open_issues": 1,
             "owner": "oculus-samples",
             "repo": "Unity-Phanto",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "showcase"
             ]
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:03:37.113Z",
+    "last_updated": "2026-10-31T09:40:59.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
