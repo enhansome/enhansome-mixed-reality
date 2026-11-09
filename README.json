@@ -77,7 +77,7 @@
             "open_issues": 47,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6131,
+            "stars": 6133,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-07T18:03:00Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-09T07:54:15Z",
+            "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2620,
+            "stars": 2622,
             "topics": [
               "game-engine",
               "gamedev",
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T09:58:16Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-08T17:02:46Z",
+            "open_issues": 101,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1145,
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T10:25:44.410Z",
+    "last_updated": "2026-11-09T11:36:08.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
