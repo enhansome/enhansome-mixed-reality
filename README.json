@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "RyanNielson",
             "repo": "awesome-unity",
-            "stars": 7089,
+            "stars": 7088,
             "topics": [
               "awesome-list",
               "game-development",
@@ -77,7 +77,7 @@
             "open_issues": 47,
             "owner": "VeriorPies",
             "repo": "ParrelSync",
-            "stars": 6133,
+            "stars": 6135,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -154,7 +154,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6076,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -185,7 +185,7 @@
             "open_issues": 6,
             "owner": "microsoft",
             "repo": "MixedRealityToolkit-Unity",
-            "stars": 6078,
+            "stars": 6076,
             "topics": [
               "hololens",
               "holotoolkit",
@@ -212,8 +212,8 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:54:15Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-10T00:14:25Z",
+            "open_issues": 24,
             "owner": "bjornbytes",
             "repo": "lovr",
             "stars": 2622,
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3438,
+            "stars": 3437,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-08T17:02:46Z",
+            "last_commit": "2026-11-09T12:22:50Z",
             "open_issues": 101,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:36:08.641Z",
+    "last_updated": "2026-11-10T11:15:12.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
