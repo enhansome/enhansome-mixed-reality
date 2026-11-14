@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2282,
+            "stars": 2283,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -212,11 +212,11 @@
             "id": 62519414,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-13T00:56:02Z",
+            "last_commit": "2026-11-13T21:34:45Z",
             "open_issues": 25,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2623,
+            "stars": 2624,
             "topics": [
               "game-engine",
               "gamedev",
@@ -334,8 +334,8 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T10:38:19Z",
-            "open_issues": 101,
+            "last_commit": "2026-11-14T09:36:48Z",
+            "open_issues": 103,
             "owner": "icosa-foundation",
             "repo": "open-brush",
             "stars": 1145,
@@ -444,7 +444,7 @@
             "open_issues": 1,
             "owner": "oculus-samples",
             "repo": "Unity-Phanto",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "showcase"
             ]
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T11:01:36.431Z",
+    "last_updated": "2026-11-14T10:29:01.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
