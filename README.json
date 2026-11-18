@@ -98,7 +98,7 @@
             "open_issues": 10,
             "owner": "DavidArayan",
             "repo": "ezy-slice",
-            "stars": 2283,
+            "stars": 2282,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -216,7 +216,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2624,
+            "stars": 2626,
             "topics": [
               "game-engine",
               "gamedev",
@@ -275,7 +275,7 @@
             "open_issues": 33,
             "owner": "Unity-Technologies",
             "repo": "arfoundation-samples",
-            "stars": 3437,
+            "stars": 3438,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -317,7 +317,7 @@
             "open_issues": 90,
             "owner": "Unity-Technologies",
             "repo": "XR-Interaction-Toolkit-Examples",
-            "stars": 1316,
+            "stars": 1317,
             "topics": []
           },
           "first_seen": "2026-08-28T15:24:42.589Z"
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T11:54:42.502Z",
+    "last_updated": "2026-11-18T11:45:21.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
@@ -643,7 +643,7 @@
       "open_issues": 0,
       "owner": "saurabhchalke",
       "repo": "awesome-mixed-reality",
-      "stars": 85,
+      "stars": 86,
       "topics": [
         "awesome",
         "awesome-list",
