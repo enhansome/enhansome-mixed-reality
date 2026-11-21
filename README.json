@@ -216,7 +216,7 @@
             "open_issues": 27,
             "owner": "bjornbytes",
             "repo": "lovr",
-            "stars": 2626,
+            "stars": 2627,
             "topics": [
               "game-engine",
               "gamedev",
@@ -334,7 +334,7 @@
             "id": 333158293,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T06:04:12Z",
+            "last_commit": "2026-11-21T10:22:43Z",
             "open_issues": 102,
             "owner": "icosa-foundation",
             "repo": "open-brush",
@@ -631,7 +631,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T11:42:55.187Z",
+    "last_updated": "2026-11-21T11:05:58.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌟 A curated list of awesome resources for Mixed Reality development.",
